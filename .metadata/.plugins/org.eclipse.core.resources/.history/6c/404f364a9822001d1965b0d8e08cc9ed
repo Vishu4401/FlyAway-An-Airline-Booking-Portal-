@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Search Products based on Product ID</title>
+</head>
+<body>
+<center>
+<h1>Enter Product Details</h1>
+<form action="set.jsp">  
+
+ ProductId      :<input type="text" name="id"><br/><br/>
+  ProductName   :<input type="text" name="name"><br>
+  ProductPrice  :<input type="text" name="price"><br>
+<input type="submit" value="go"><br/>  
+</form>  
+
+</center>
+</body>
+</html>

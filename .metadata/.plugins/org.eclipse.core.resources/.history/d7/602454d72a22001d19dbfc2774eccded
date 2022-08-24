@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Enter Product Details</h1>
+<form action="set.jsp">  
+ ProductId      :<input type="text" name="id"><br>
+  ProductName   :<input type="text" name="name"><br>
+  ProductPrice  :<input type="text" name="price"><br>
+<input type="submit" value="go"><br/>  
+</form>  
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+127.0.0.1 - - [22/Aug/2022:16:45:53 +0530] "GET / HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:17:01:44 +0530] "GET /Product-Details-Portal/ HTTP/1.1" 200 634
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:17:01:52 +0530] "GET /Product-Details-Portal/ProductController?productId=101&productName=Book&productCategory=DevOps&productDescription=RedHat HTTP/1.1" 500 1529
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:17:02:03 +0530] "GET /Product-Details-Portal/ProductController?productId=102&productName=Book&productCategory=DevOps&productDescription=RedHat HTTP/1.1" 500 1529
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:20:30:08 +0530] "GET /Retrieving_the_Product_Details_Using_the_Product_ID/form.html HTTP/1.1" 404 809
+127.0.0.1 - - [22/Aug/2022:20:30:53 +0530] "GET / HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:20:31:11 +0530] "GET /Retrieving_the_Product_Details_Using_the_Product_ID/form.html HTTP/1.1" 200 423
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:20:31:30 +0530] "GET /Retrieving_the_Product_Details_Using_the_Product_ID/set.jsp?id=121&name=Web+Program&price=340 HTTP/1.1" 200 388
+0:0:0:0:0:0:0:1 - - [22/Aug/2022:20:31:33 +0530] "GET /Retrieving_the_Product_Details_Using_the_Product_ID/display.jsp HTTP/1.1" 200 352
